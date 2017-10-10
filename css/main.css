@@ -1,1 +1,23 @@
+#main-container
+{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
 
+#logo-container
+{
+  margin-top: 50px;
+}
+
+#logo
+{
+  width: 200px;
+  height: auto;
+  margin: 0px auto;
+}
+
+
+.ng-app-embedded
+{
+  margin-top: 60%;
+}

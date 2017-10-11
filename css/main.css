@@ -16,8 +16,30 @@
   margin: 0px auto;
 }
 
-
 .ng-app-embedded
 {
-  margin-top: 60%;
+  margin-top: 20%;
+}
+
+#main-title
+{
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+#simple-text
+{
+  text-align: center;
+  color: white;
+}
+
+.footer
+{
+  background-color: black !important;
+}
+
+.footer a
+{
+  color: white !important;
 }
